@@ -1,0 +1,8 @@
+*/__pycache__/
+*.pyc
+.env
+*.db
+.venv/
+.idea/
+config.json
+.DS_Store
